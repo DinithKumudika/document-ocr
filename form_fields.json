@@ -1,0 +1,116 @@
+{
+    "transferable_credit": true,
+    "standby_credit": false,
+    "date_of_application": {
+        "date": 8,
+        "month": "AUG",
+        "year": 2024
+    },
+    "date_of_expiry": {
+        "date": 5,
+        "month": "AUG",
+        "year": 2024
+    },
+    "place_of_expiry": "Nugegoda",
+    "applicant_details": {
+        "name": "W.D Kumudika",
+        "address": "No. 50C/2 1/1, Wijayamangalarama Road, Kohuwala"
+    },
+    "benificiary_details": {
+        "name": "Vishwa Rajakaruna",
+        "address": "No.41/4A, Wijayamangalarama Road, Kohuwala",
+        "contact_details": "Vishwa\r0712223456"
+    },
+    "curency_n_amount": "LKR 30000.00",
+    "tollerance": {
+        "percent_1": 6,
+        "percent_2": 3,
+        "type": "Value"
+    },
+    "credit_available": {
+        "from_any_bank": true,
+        "bank_location": "Homagama"
+    },
+    "drafts_at": "6 after confirmation",
+    "partial_shipment": true,
+    "trans_shipment": false,
+    "shipment": {
+        "44E": "not applicable",
+        "44F": "not applicable"
+    },
+    "latest_shipment_date": {
+        "date": 5,
+        "month": "OCT",
+        "year": 2024
+    },
+    "description_of_goods": "this is a example description of goods\rthis has no excessive details",
+    "terms_of_delivery": {
+        "sea_shipment": [
+            "FOB",
+            "CIF"
+        ],
+        "all": [
+            "FCA",
+            "CPT"
+        ]
+    },
+    "documents_required": {
+        "option_1": {
+            "checked": true,
+            "invoice_copies": 8,
+            "goods_origin": "electronics",
+            "hs_code": "567-89-34"
+        },
+        "option_2": {
+            "checked": true,
+            "freight_status": "Pre-paid"
+        },
+        "option_3": {
+            "checked": true,
+            "air_waybill_freight_status": "collect"
+        },
+        "option_4": {
+            "checked": true,
+            "institute_war_clauses": "Air cargo",
+            "institute_strike_clauses": "Cargo",
+            "insurance_term": "CIP",
+            "insurance_percentage": "5"
+        },
+        "option_5": {
+            "checked": true,
+            "packing_list_copies": "4"
+        },
+        "option_6": {
+            "checked": true,
+            "weight_list_copies": "3"
+        }
+    },
+    "additional_instructions": {
+        "option_1": {
+            "checked": true,
+            "send_copy_by": "fax",
+            "days_after_shipment": 7,
+            "accompanying_document": "fax activity report"
+        },
+        "option_2": {
+            "checked": true,
+            "open_cover_no": "SB-897-678-345"
+        },
+        "option_3": {
+            "checked": false
+        }
+    },
+    "period_for_presentation": "7 days after shipment date",
+    "confirmation": {
+        "required": false,
+        "charges_on": "Beneficiary"
+    },
+    "charges_outside_issuing_bank": "Applicant",
+    "advising_bank": "Nations Trust PLC",
+    "book_forward_exchange_months": 8,
+    "applicant_contact_details": "0712223456",
+    "account_no": "76749506",
+    "bank_branch": "Negombo",
+    "applicant_name": "S.R.L.A Senadheera",
+    "date": "2024/05/09"
+}

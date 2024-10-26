@@ -1,0 +1,68 @@
+{
+    'page_1': {
+        'form_of_credit': {
+            'standby_credit': False, 
+            'transferable_credit': True
+        }, 
+        'date_of_application': '2024/09/10', 
+        'credit_number': '2437199976', 
+        'date_n_place_of_expiry': {
+            'place': 'kohuwal', 
+            'date': '2024/09/21'
+        }, 
+        'applicant_details': 'W, D  kumudika, No. 41/40, wijayamo-ngalaroma road,
+        1, kobuwal, C', 
+        'benificiary details': {
+            'name_n_address': 'S.M,A.L.A, Senadheera, No .,
+            20/2, ranawiru, ho &d ), kokuwala', 'contact_details': ''
+        }, 
+        'currency_n_amount': 'LKR   30 5 Oo0', 
+        'tolerance': {
+            'from': 0, 
+            'to': '2'
+        }, 
+        'drafts_at': {
+            'sight': True, 
+            'days_after': False
+        }, 
+        'partial_shipment': {
+            'not_allowed': True
+        }, 
+        'transshipment': {
+            'allowed': True
+        }, 
+        'shipment': {
+            '44E': 'Not applicable', 
+            '44F': 'No + 0Pelicoble'
+        }, 
+        'latest_shipment_date': '01 October 2024', 
+        'description_of_goods': 'this is an example description of goods', 
+        'documents_required': {
+            'option_1': {
+                'no_of_copies': '8', 'hs_code_no': '56 7-89-34'
+            }, 
+            'option_2': {
+                'lading_marked_freight': 'Pre-paa'
+            }
+        }, 
+        'special_instructions': {
+            'option_1': {
+                'send_copies_by': 'fox', 
+                'within_days': '7', 
+                'accompany_original_document': 'fax achvity xeport'
+            }, 
+            'option_2': {
+                'open_cover_no': 'SB A 897-678 Sn 345'
+            }
+        }, 
+        'period_for_presentation': {
+            'days': '7', 
+            'shipment_date': True
+        }, 
+        'confirmation': {
+            'required': False, 
+            'charges_on': 'Beneficiary'
+        }, 
+        'charges': 'Applicant'
+    }
+}
